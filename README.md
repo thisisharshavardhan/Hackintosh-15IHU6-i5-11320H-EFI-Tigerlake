@@ -31,5 +31,6 @@ Please refer to the [Dortania OpenCore Install Guide](https://dortania.github.io
 
 ## Installation Notes
 
-Extract the Zip to a pendrive of fat32 format and GPT partition
-Then boot it.
+1. Download the latest release from the [Releases](https://github.com/yourusername/yourrepository/releases) page.
+2. Extract the zip file to a FAT32 formatted and GPT partitioned USB drive.
+3. Boot your Lenovo IdeaPad Gaming 3 from this USB drive.
