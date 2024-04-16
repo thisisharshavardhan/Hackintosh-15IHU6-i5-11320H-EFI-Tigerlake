@@ -31,6 +31,6 @@ Please refer to the [Dortania OpenCore Install Guide](https://dortania.github.io
 
 ## Installation Notes
 
-1. Download the latest release from the [Releases]([https://github.com/yourusername/yourrepository/releases](https://github.com/thisisharshavardhan/Hackintosh-15IHU6-i5-11320H-EFI-Tigerlake/releases/tag/v1.0.0)) page.
+1. Download the latest release from the [Releases](https://github.com/yourusername/yourrepository/releases](https://github.com/thisisharshavardhan/Hackintosh-15IHU6-i5-11320H-EFI-Tigerlake/releases/tag/v1.0.0) page.
 2. Extract the zip file to a FAT32 formatted and GPT partitioned USB drive.
 3. Boot your Lenovo IdeaPad Gaming 3 from this USB drive.
